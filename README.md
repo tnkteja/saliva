@@ -7,3 +7,5 @@ Install the drools plugin for eclipse [steps](https://www.tutorialspoint.com/dro
 
 ## Back to AI
 In AI we have first order logic 
+
+## Formulating the project.
