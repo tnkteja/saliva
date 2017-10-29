@@ -11,3 +11,5 @@ In AI we have first order logic
 ## Formulating the project.
 
 * We have movies with ratings, now i can categorise a movie as a good movie if rating is more than 3 and bad movie if the rating is less than 3 AND an average movie if the rating is 3.
+
+    * move the same entity used in the spring boot application for the movie,
